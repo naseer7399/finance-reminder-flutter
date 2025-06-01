@@ -20,3 +20,7 @@ A mobile app that helps you track financial due dates—like rent, car payments,
    flutter pub get
    flutter run
 
+## To build the APK:
+   Run:
+   ```bash
+   flutter build apk
